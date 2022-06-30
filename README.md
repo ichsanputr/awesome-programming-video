@@ -8,8 +8,7 @@ We are very happy if you contribute video recommendations to this repository ðŸ˜
 ## Content
 
 - Indonesia
-  - PHP
-  - Pemrograman dan CPU
+  - <a href="https://github.com/ichsanputr/awesome-programming-video/blob/main/README.md#pemrograman-dan-cpu">Pemrograman dan CPU</a>
 - English
   - CPU and Programming
   - Ruby
