@@ -8,6 +8,24 @@
 
 - Select category of your video by languange and kind of video
 
-<img src="https://raw.githubusercontent.com/ichsanputr/awesome-programming-video/main/assets/img/howto1.png">
+<img src="https://raw.githubusercontent.com/ichsanputr/awesome-programming-video/main/assets/img/howto2.png">
+
+- Edit the README.md file and add link of video to that
+
+<img src="https://raw.githubusercontent.com/ichsanputr/awesome-programming-video/main/assets/img/howto_3.png">
+
+- Create your commit with any describtion
+
+<img src="https://raw.githubusercontent.com/ichsanputr/awesome-programming-video/main/assets/img/howto4.png">
+
+- Back to main page of your fork repository you will see button that ordered you to compare & pull request, please click that and you was succesful to enter your video recommendation
+
+<img src="https://raw.githubusercontent.com/ichsanputr/awesome-programming-video/main/assets/img/howto5.png">
+
+
+
+
+
+
 
 
