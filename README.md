@@ -13,18 +13,4 @@ We are very happy if you contribute video recommendations to this repository ðŸ˜
   - [Programming and CPU](https://www.genome.gov/)
   - [Ruby](https://github.com/ichsanputr/awesome-programming-video/edit/main/README.md#ruby)
 
-### Indonesian Videos 
 
-##### Pemrograman dan CPU
-
-  - <a href="https://www.youtube.com/watch?v=QLrsNJgNDGQ">Perbedaan fungsi CPU dan GPU</a> - Onno Center
-  
-### English Videos
-
-##### Programming and CPU
-
-- [Multithreading code](https://www.youtube.com/watch?v=7ENFeb-J75k&list=WL&index=5) - Computerphile
-
-##### Ruby
-
-  - <a href="https://www.youtube.com/watch?v=fK-N_VxdW7g&list=WL&index=3&t=442s">Ruby Conference 2008 - What All Rubyists Should Know About   Threads</a> - Confreaks
