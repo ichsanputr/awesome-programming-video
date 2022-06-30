@@ -9,5 +9,6 @@ We are very happy if you contribute video recommendations to this repository ðŸ˜
 
 - [Indonesia](https://github.com/ichsanputr/awesome-programming-video/tree/main/indonesia)
 - [English](https://github.com/ichsanputr/awesome-programming-video/tree/main/english)
+- [Russian](https://github.com/ichsanputr/awesome-programming-video/tree/main/russian)
 
 
