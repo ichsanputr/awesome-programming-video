@@ -1,5 +1,9 @@
 ### Conference & Talk Programming Videos
 
+##### Programming & CPU
+
+- [User-level threads....... with threads. - Paul Turner - Google](https://www.youtube.com/watch?v=KXuZi9aeGTw&list=WL&index=5)
+
 ##### Ruby 
 
 - [Ruby Conference 2008 - What All Rubyists Should Know About Threads](https://www.youtube.com/watch?v=fK-N_VxdW7g&list=WL&index=3&t=442s)
