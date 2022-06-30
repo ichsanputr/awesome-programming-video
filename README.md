@@ -15,16 +15,16 @@ We are very happy if you contribute video recommendations to this repository ðŸ˜
 
 ### Indonesian Videos 
 
-#### Pemrograman dan CPU
+##### Pemrograman dan CPU
 
   - <a href="https://www.youtube.com/watch?v=QLrsNJgNDGQ">Perbedaan fungsi CPU dan GPU</a> - Onno Center
   
 ### English Videos
 
-#### Programming and CPU
+##### Programming and CPU
 
 - [Multithreading code](https://www.youtube.com/watch?v=7ENFeb-J75k&list=WL&index=5) - Computerphile
 
-#### Ruby
+##### Ruby
 
   - <a href="https://www.youtube.com/watch?v=fK-N_VxdW7g&list=WL&index=3&t=442s">Ruby Conference 2008 - What All Rubyists Should Know About   Threads</a> - Confreaks
