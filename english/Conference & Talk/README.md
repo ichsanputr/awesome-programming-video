@@ -1,4 +1,6 @@
-### Conference & Talk Videos for Ruby Languange
+### Conference & Talk Programming Videos
+
+##### Ruby 
 
 - [Ruby Conference 2008 - What All Rubyists Should Know About Threads](https://www.youtube.com/watch?v=fK-N_VxdW7g&list=WL&index=3&t=442s)
 - [Ruby Conf 12 - Y Not- Adventures in Functional Programming by Jim Weirich
