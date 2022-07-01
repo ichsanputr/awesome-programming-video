@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/ichsanputr/awesome-programming-video/main/assets/img/howto4.png">
 
-- Back to main page of your fork repository you will see button that ordered you to compare & pull request, please click that and you was succesful to enter your video recommendation
+- Back to main page of your fork repository, you will see button that ordered you to compare & pull request, please click that and you was successfully to enter your video recommendation
 
 <img src="https://raw.githubusercontent.com/ichsanputr/awesome-programming-video/main/assets/img/howto5.png">
 
